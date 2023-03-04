@@ -7,28 +7,30 @@ body {
      }
 
   .date{
-    width: 100px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
-    background-color: red;
+    background-color:yellow;
     margin-left: 100px;
     margin-left: 425px;
+    padding-top: 5px;
+    font-size:20px;
   }  
 
 .actualday {
-  width: 100px;
-  height: 100px;
+  width: 70px;
+  height: 70px;
   border-radius: 50%;
   background-color: red;
   margin-left: 425px;
   font-size: 5px;
-  padding-bottom: 10px;
-
+  padding-top:20px;
+  font-size:7px;
 }
 
 .time {
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
   background-color: red;
   margin-left: 100px;
