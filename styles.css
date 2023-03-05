@@ -24,8 +24,8 @@ body {
   background-color: red;
   margin-left: 425px;
   font-size: 5px;
-  padding-top:20px;
   font-size:7px;
+  margin-bottom:5px;
 }
 
 .time {
@@ -38,8 +38,8 @@ body {
 }
 
 .from {
-  width: 100px;
-  height: 100px;
+  width: 70px;
+  height: 70px;
   border-radius: 50%;
   background-color: red;
   margin-left: 425px;
