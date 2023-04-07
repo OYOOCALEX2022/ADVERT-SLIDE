@@ -1,17 +1,16 @@
 body {
-    background-color: yellow;
+    background-color:maroon;
+    color: whitesmoke;
     line-height:normal;
     margin: 0%;
     text-align: center;
 }
+
 h3 {
-
-  font-size:30px;
-}
-
-p { font-family:Qwitcher Grypen;
+font-size:30px;
 }
 
 h4 {
-  font-size:30px;
+  
+   font-size:30px;
 }
