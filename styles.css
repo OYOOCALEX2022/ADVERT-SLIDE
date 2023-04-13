@@ -1,16 +1,20 @@
 body {
     background-color:maroon;
-    color: white;
+    color:WHITE;
     line-height:normal;
     margin: 0%;
     text-align: center;
 }
 
-h3 {
-font-size:30px;
+pre {
+font-size:35px;
 }
 
-h4 {
+h3 {
   
    font-size:30px;
+}
+p{
+ padding-left: 450px;
+ padding-top:5px;   
 }
