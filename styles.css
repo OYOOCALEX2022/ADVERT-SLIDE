@@ -14,22 +14,23 @@ h3 {
 }
 
 p {
- position: absolute;   
- padding-left:400px;
- padding-top:0px;   
+   
+ padding-left:430px;
+ padding-top:-200px;  
+
 }
 
 .image {
-
+    
     width:400px;
     height:400px;
     padding-left:167px;
     padding-right:300px;
-    padding: top -0.00px;
-    padding-bottom:20px;
+    padding-top:-0.00px;
     padding-top:15px;
     
- }            
+} 
+
  img {
   opacity: 2.5;
 }
