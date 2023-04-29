@@ -35,4 +35,32 @@ p {
   opacity: 2.5;
 }
 
+.btn {
+
+    margin-left: 10px;
+    float:left;
+    height:70px;
+    margin-top:90px;
+    margin-bottom:100px;
+    margin:20px;
+    font-size:20px;
+    font-weight:light;
+    border:5px solid maroon;
+    opacity:2;
+    border-radius:5px solid maroon;
+    background-color:maroon;
+    color:white;
+    opacity: 2;
+    width:100px;
+   }
+
+  .text {
+
+    font-family:60px;
+    position: absolute;
+    margin-top: -334px;
+    margin-left:715px;
+
+  }
+
 
