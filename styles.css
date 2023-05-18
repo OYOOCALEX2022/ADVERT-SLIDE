@@ -1,22 +1,19 @@
 body {
 
-    background-color:maroon;
-    color:WHITE;
+    background-color:white;
+    color:black;
     line-height:normal;
     margin: 0%;
     text-align: center;
-
-}
-
-h3 {
-  
-   font-size:30px;
 }
 
 p {
    
- padding-left:430px;
- padding-top:-200px;  
+  font-family:Qwitcher Grypen;font-size:63px;
+  color:maroon;opacity: 2;
+  margin-bottom:0px;
+  margin-top:25px;
+  padding-left:40px;
 
 }
 
@@ -26,8 +23,9 @@ p {
     height:400px;
     padding-left:167px;
     padding-right:300px;
-    padding-top:-0.00px;
+    padding-top:50px;
     padding-top:15px;
+    margin-bottom:5px;
     
 } 
 
@@ -45,10 +43,10 @@ p {
     margin:20px;
     font-size:20px;
     font-weight:light;
-    border:5px solid maroon;
+    border:5px solid white;
     opacity:2;
-    border-radius:5px solid maroon;
-    background-color:maroon;
+    border-radius:5px solid white;
+    background-color:white;
     color:white;
     opacity: 2;
     width:100px;
