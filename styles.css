@@ -1,6 +1,6 @@
 body {
 
-    background-color:maroon;
+    background-color:#EC5800;
     color:white;
     line-height:normal;
     margin: 0%;
@@ -14,13 +14,13 @@ pre {
   font-family:Kaushan Script; 
 }
 
-h1 {
+h2 {
    
   font-family:Qwitcher Grypen;font-size:63px;
-  color:maroon;opacity: 2;
+  color:black;opacity: 2;
   margin-bottom:0px;
-  margin-top:25px;
-  padding-left:7px;
+  margin-top:1px;
+  padding-left:150px;
 
 }
 
@@ -30,7 +30,7 @@ h1 {
     height:300px;
     padding-left:167px;
     padding-right:300px;
-    padding-top:-0.00px;
+    padding-top: 20px;
     padding-bottom:0px;
 
   } 
