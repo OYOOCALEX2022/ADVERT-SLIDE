@@ -1,6 +1,6 @@
 body {
 
-    background-color:#EC5800;
+    background-color:maroon;
     color:white;
     line-height:normal;
     margin: 0%;
@@ -9,7 +9,7 @@ body {
 
 pre {
   text-align: center;
-  font-size:25px;
+  font-size:45px;
   font-style: italic;
   font-family:Kaushan Script; 
 }
@@ -24,6 +24,11 @@ h2 {
 
 }
 
+p {
+  font-family:Qwitcher Grypen;font-size:63px;
+  padding: top 0px;
+}
+
 .image {
 
     width:300px;
@@ -34,6 +39,8 @@ h2 {
     padding-bottom:0px;
 
   } 
+
+
 
 .btn {
 
