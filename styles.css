@@ -1,24 +1,24 @@
 body {
 
-    background-color:yellow;
+    background-color:maroon;
     color:white;
     line-height:normal;
-    margin: 0%;
+    margin:0%;
     text-align: center;
 }
 
 pre {
 
-  color:black;
-  font-size:35px;
+  color:white;
+  font-size:30px;
   font-style: italic;
-  font-family:Qwitcher Grypen; 
-  padding-top: 150px;
+  font-family:Kaushan+Script; 
+  padding-top:5px;
 }
 
 h2 {
    
-  font-family:Qwitcher Grypen;font-size:70px;
+  font-family:Kaushan+Script;font-size:70px;
   color:black;opacity: 2;
   margin-bottom:0px;
   margin-top:1px;
@@ -27,8 +27,8 @@ h2 {
 }
 
 p {
-  font-family:Qwitcher Grypen;font-size:63px;
-  padding: top 0px;
+  font-family:Qwitcher Grypen;font-size:43px;
+  margin-top:-37px;
 }
 
 .image {
