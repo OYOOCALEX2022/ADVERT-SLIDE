@@ -29,8 +29,9 @@ h2 {
 
 p {
   font-family:Qwitcher Grypen;font-size:30px;
-  color: black;
-  margin-top:-47px;
+  font-weight:bold;
+  color: maroon;
+  margin-top:-55px;
   padding-left:300px;
 }
 .image {
@@ -44,6 +45,7 @@ p {
   margin-top:35px;
 
 } 
+
 .btn {
 
     margin-left: 10px;
