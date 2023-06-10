@@ -1,19 +1,16 @@
 body {
 
-    background-color:white;
+    background-color:maroon;
     color:white;
     line-height:normal;
     margin:0%;
     text-align: center;
 }
 
-pre {
-
-  color:white;
-  font-size:30px;
-  font-style: italic;
-  font-family:Kaushan+Script; 
-  padding-top:5px;
+p {
+  color: white;
+  margin-top:-9px;
+  font-size: 23px;
 }
 
 h2 {
@@ -27,12 +24,11 @@ h2 {
 
 }
 
-p {
-  font-family:Qwitcher Grypen;font-size:30px;
+pre {
+  font-family:Qwitcher Grypen;font-size:50px;
   font-weight:bold;
-  color: maroon;
-  margin-top:-55px;
-  padding-left:300px;
+  color: white;
+  text-align: center;
 }
 .image {
 
