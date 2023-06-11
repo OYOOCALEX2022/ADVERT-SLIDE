@@ -9,8 +9,8 @@ body {
 
 p {
   color: white;
-  margin-top:-9px;
-  font-size: 23px;
+  margin-top:-1px;
+  font-size: 35px;
 }
 
 h2 {
@@ -25,7 +25,7 @@ h2 {
 }
 
 pre {
-  font-family:Qwitcher Grypen;font-size:50px;
+  font-family:Qwitcher Grypen;font-size:55px;
   font-weight:bold;
   color: white;
   text-align: center;
