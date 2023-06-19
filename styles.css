@@ -1,6 +1,6 @@
 body {
 
-    background-color:maroon;
+    background-color:burlywood;
     color:white;
     line-height:normal;
     margin:0%;
@@ -8,7 +8,7 @@ body {
 }
 
 p {
-  color: white;
+  color: maroon;
   margin-top:-1px;
   font-size: 35px;
 }
@@ -27,7 +27,7 @@ h2 {
 pre {
   font-family:Qwitcher Grypen;font-size:55px;
   font-weight:bold;
-  color: white;
+  color: maroon;
   text-align: center;
 }
 .image {
