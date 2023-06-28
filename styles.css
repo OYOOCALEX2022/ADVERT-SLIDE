@@ -1,11 +1,12 @@
 body {
 
-    background-color:maroon;
+    background-color:yellow;
     color:beige;
     line-height:normal;
     margin:0%;
     text-align: center;
 }
+
 h1 {
 
   font-family:Qwitcher Grypen;font-size:60px;
@@ -30,9 +31,9 @@ padding-left:44px;
 }
 
 pre {
-  font-family:Qwitcher Grypen;font-size:55px;
+  font-family:Kaushan Script;font-size:35px;
   font-weight:bold;
-  color: beige;
+  color:black;
   text-align: center;
 }
 
@@ -40,9 +41,9 @@ p {
   font-family:Qwitcher Grypen;
   color:black;
   font-weight:bolder;
-  margin-top:-150px;
+  margin-top:-35px;
   font-size: 30px;
-  padding-left:5px;
+  padding-left:20px;
 }
 h6 {
   color:black;
