@@ -1,7 +1,7 @@
 body {
 
     background-color:maroon;
-    color:white;
+    color:beige;
     line-height:normal;
     margin:0%;
     text-align: center;
@@ -32,7 +32,7 @@ padding-left:44px;
 pre {
   font-family:Qwitcher Grypen;font-size:55px;
   font-weight:bold;
-  color: white;
+  color: beige;
   text-align: center;
 }
 
@@ -40,10 +40,26 @@ p {
   font-family:Qwitcher Grypen;
   color:black;
   font-weight:bolder;
-  margin-top:-100px;
-  font-size: 25px;
+  margin-top:-150px;
+  font-size: 30px;
   padding-left:5px;
 }
+h6 {
+  color:black;
+  font-weight:bolder;
+  margin-top:-59px;
+  font-size: 20px;
+}
+
+h5 {
+  color:beige;
+  font-weight:bolder;
+  margin-top:-150px;
+  font-size: 20px;
+}
+
+
+
 
   .image {
 
