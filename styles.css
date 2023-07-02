@@ -48,10 +48,11 @@ p {
 }
 h6 {
   font-family:Qwitcher Grypen;
-  color:maroon;
+  color:black;
   font-weight:bolder;
   margin-top:-70px;
   font-size: 20px;
+  padding-left: 30px;
 }
 
 h5 {
@@ -59,6 +60,7 @@ h5 {
   font-weight:bolder;
   margin-top:-150px;
   font-size: 20px;
+  padding-left: 20px;
 }
 
 
