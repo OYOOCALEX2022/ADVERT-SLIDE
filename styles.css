@@ -1,6 +1,6 @@
 body {
 
-    background-color:maroon;
+    background-color:BLACK;
     color:beige;
     line-height:normal;
     margin:0%;
@@ -33,7 +33,7 @@ padding-left:44px;
 pre {
   font-family:Kaushan Script;font-size:40px;
   font-weight:bold;
-  color:white;
+  color:yellow;
   text-align: center;
 }
 
@@ -42,14 +42,14 @@ p {
   font-family:Qwitcher Grypen;
   color:yellow;
   font-weight:bold;
-  margin-top:-43px;
+  margin-top:-73px;
   font-size:25px;
   padding-left:30px;
 }
 
 p {
   font-family:Qwitcher Grypen;
-  margin-top:-35px;
+  margin-top:-70px;
 }
 
 h6 {
