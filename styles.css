@@ -1,6 +1,6 @@
 body {
 
-    background-color:BLACK;
+    background-color:#ffe500;
     color:beige;
     line-height:normal;
     margin:0%;
@@ -33,16 +33,16 @@ padding-left:44px;
 pre {
   font-family:Kaushan Script;font-size:40px;
   font-weight:bold;
-  color:yellow;
+  color:black;
   text-align: center;
 }
 
 p {
 
   font-family:Qwitcher Grypen;
-  color:yellow;
+  color:black;
   font-weight:bold;
-  margin-top:-35px;
+  margin-top:-60px;
   font-size:25px;
   padding-left:12px;
 }
