@@ -1,32 +1,18 @@
 body {
 
-    background-color:#ffe500;
+    background-color:black;
     color:beige;
     line-height:normal;
     margin:0%;
     text-align: center;
 }
-
+ 
 h1 {
-
-  font-family:Qwitcher Grypen;font-size:60px;
-  color:black;opacity: 2;
-  text-align:center;
-  margin-top:-60px;
-  padding-left:193px;
-  opacity:2;
-  margin-bottom:-20px;
-}  
-
-h2 {
-
-color:white;opacity:2;
-font-weight:bold;
-text-align:center;
-margin-top:-30px;
-margin-bottom:-40px;
-font-family:Qwitcher Grypen;font-size:35px;margin-left:145px;
-padding-left:44px;
+ color: yellow;
+ font-family:Qwitcher Grypen;
+ font-size:75px;
+ padding-top:-12px;
+ margin-bottom:35px;
 
 }
 
@@ -39,16 +25,13 @@ pre {
 
 p {
 
-  color:black;
+  color:yellow;
   font-weight:bold;
   margin-top:-60px;
-  font-size:25px;
+  font-size:50px;
   padding-left:12px;
-}
-
-p {
   font-family:Qwitcher Grypen;
-  margin-top:-25px;
+  margin-top:-7px;
 }
 
 h6 {
@@ -77,7 +60,7 @@ h5 {
     height:400px;
     padding-left:300px;
     padding-right:300px;
-    padding-top: 35px;
+    padding-top:50px;
     padding-bottom:-30px;
     
  } 
