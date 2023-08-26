@@ -1,6 +1,6 @@
 body {
 
-    background-color:black;
+    background-color:yellow;
     color:beige;
     line-height:normal;
     margin:0%;
@@ -25,13 +25,13 @@ pre {
 
 p {
 
-  color:yellow;
+  color:black;
   font-weight:bold;
   margin-top:-60px;
   font-size:50px;
   padding-left:12px;
   font-family:Qwitcher Grypen;
-  margin-top:-7px;
+  margin-top:-90px;
 }
 
 h6 {
