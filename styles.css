@@ -1,10 +1,14 @@
 body {
-
-    background-color:#ffe500;
+ 
+    background-color:#D9CD30;
     color:beige;
     line-height:normal;
     margin:0%;
     text-align: center;
+}
+
+.highlight {
+  background-color:#ffe500;
 }
  
 h1 {
@@ -29,9 +33,9 @@ p {
   font-weight:bold;
   margin-top:-60px;
   font-size:57px;
-  padding-left:12px;
+  padding-left:35px;
   font-family:Qwitcher Grypen;
-  margin-top:-50px;
+  margin-top:-10px;
 }
 
 h6 {
