@@ -1,6 +1,6 @@
 body {
  
-    background-color:#F2B749;
+    background-color:#D9831A;
     line-height:normal;
     margin:0%;
     text-align: center;
@@ -23,8 +23,9 @@ h1 {
 pre {
   font-family:Kaushan Script;font-size:40px;
   font-weight:bold;
-  color:black;
+  color:#0D0D0D;
   text-align: center;
+  margin-top: 80PX;
 }
 
 p {
