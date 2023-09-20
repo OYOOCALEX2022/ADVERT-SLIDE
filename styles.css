@@ -23,7 +23,6 @@ h1 {
 pre {
   font-family:Kaushan Script;
   font-size:40px; ; 
-  font-weight:bold;
   color:#0D0D0D;
   text-align: center;
   margin-top: 80PX;
@@ -34,11 +33,10 @@ p {
 
   color:black;
   font-weight:bold;
-  margin-top:-60px;
-  font-size:57px;
+  margin-top:18px;
+  font-size:25px;
   padding-left:50px;
   font-family:Qwitcher Grypen;
-  margin-top:-10px;
 }
 
 h6 {
@@ -46,7 +44,7 @@ h6 {
   color:black;
   font-weight:bold;
   margin-top:-89px;
-  font-size: 35px;
+  font-size:15px;
   padding-left: 30px;
 }
 
