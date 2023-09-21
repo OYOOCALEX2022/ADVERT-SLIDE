@@ -22,7 +22,8 @@ h1 {
 
 pre {
   font-family:Kaushan Script;
-  font-size:40px; ; 
+  font-size:40px; 
+  font-weight: bolder; 
   color:#0D0D0D;
   text-align: center;
   margin-top: 80PX;
