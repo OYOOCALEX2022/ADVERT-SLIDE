@@ -26,8 +26,9 @@ pre {
   font-weight: bolder; 
   color:black;
   text-align: center;
-  margin-top:65PX;
-  line-height:1.5;
+  margin-top:20px;
+  line-height:0.92;
+  margin-bottom:1px;
 }
 
 p {
