@@ -27,15 +27,15 @@ pre {
   color:black;
   text-align: center;
   margin-top:20px;
-  line-height:0.92;
-  margin-bottom:1px;
+  line-height:2;
+  margin-bottom:1.5px;
 }
 
 p {
 
   color:black;
   font-weight:bold;
-  margin-top:2px;
+  margin-top:-20px;
   font: size 45px;
   padding-left:50px;
   font-family:Qwitcher Grypen;
