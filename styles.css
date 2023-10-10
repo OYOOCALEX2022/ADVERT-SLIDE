@@ -1,6 +1,6 @@
 body {
  
-    background-color:#F27405;
+    background-color:yellow;
     line-height:normal;
     margin:0%;
     text-align: center;
@@ -8,7 +8,7 @@ body {
 }
 
 .highlight {
-  background-color: #F27405;
+  background-color: yellow;
 }
  
 h1 {
@@ -22,7 +22,7 @@ h1 {
 
 pre {
   font-family:Kaushan Script;
-  font-size:40px; 
+  font-size:47px; 
   font-weight: bolder; 
   color:black;
   text-align: center;
