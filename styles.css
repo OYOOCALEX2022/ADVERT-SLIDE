@@ -1,6 +1,6 @@
 body {
  
-    background-color:yellow;
+    background-color:#F27405;
     line-height:normal;
     margin:0%;
     text-align: center;
@@ -8,11 +8,11 @@ body {
 }
 
 .highlight {
-  background-color: yellow;
+  background-color:#F27405;
 }
  
 h1 {
- color: yellow;
+ color:#F27405;
  font-family:Kaushan Script;font-size:40px;;
  font-size:75px;
  padding-top:-12px;
@@ -26,16 +26,16 @@ pre {
   font-weight: bolder; 
   color:black;
   text-align: center;
-  margin-top:5px;
+  margin-top:15px;
   line-height:1.5;
   margin-bottom:1.5px;
 }
 
 p {
 
-  color:black;
+  color:white;
   font-weight:bold;
-  margin-top:-20px;
+  margin-top:-70px;
   font: size 45px;
   padding-left:50px;
   font-family:Qwitcher Grypen;
