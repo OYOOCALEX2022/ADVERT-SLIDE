@@ -22,11 +22,11 @@ h1 {
 
 pre {
   font-family:Kaushan Script;
-  font-size:47px; 
+  font-size:29px; 
   font-weight: bolder; 
   color:black;
   text-align: center;
-  margin-top:15px;
+  margin-top:45px;
   line-height:1.5;
   margin-bottom:1.5px;
 }
@@ -35,8 +35,8 @@ p {
 
   color:white;
   font-weight:bold;
-  margin-top:-30px;
-  font: size 35px;
+  margin-top:-15px;
+  font-size:35px;
   padding-left:50px;
   font-family:Qwitcher Grypen;
 }
