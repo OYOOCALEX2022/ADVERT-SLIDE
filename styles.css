@@ -28,27 +28,28 @@ pre {
   text-align: center;
   margin-top:85px;
   line-height:1;
-  margin-bottom:1.6px;
+  margin-bottom:1.6px; 
 }
 
 p {
 
   color:white;
   font-weight:bold;
-  margin-top:-135px;
+  margin-top:-140px;
   font-size:55px;
   padding-left:61px;
   font-family:Qwitcher Grypen;
 }
 
 h6 {
+
   font-family:Qwitcher Grypen;
   color:black;
   font-size:100px;
   font-weight:bold;
-  margin-top:-100px;
+  margin-top:-85px;
   font-size:15px;
-  padding-left: 30px;
+  padding-left:30px;
 }
 
 h5 {
