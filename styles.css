@@ -32,24 +32,24 @@ pre {
 }
 
 p {
-
-  color:white;
-  font-weight:bold;
-  margin-top:-140px;
+  margin-top:-150px;
   font-size:55px;
   padding-left:61px;
-  font-family:Qwitcher Grypen;
+  font-family:Qwitcher Grypen; 
+  color:white; 
+  font-weight: bolder;
 }
 
-h6 {
-
-  font-family:Qwitcher Grypen;
-  color:black;
+h6 { 
   font-size:100px;
-  font-weight:bold;
-  margin-top:-85px;
+  margin-top:-115px;
   font-size:15px;
   padding-left:30px;
+  font-family:Qwitcher Grypen; 
+  color:white;
+  margin-top:-10px;
+  font-size:45px; 
+  font-weight: bolder;
 }
 
 h5 {
