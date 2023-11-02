@@ -27,12 +27,12 @@ pre {
   color:black;
   text-align: center;
   margin-top:85px;
-  line-height:1;
+  line-height:0.7;
   margin-bottom:1.6px; 
 }
 
 p {
-  margin-top:-150px;
+  margin-top:-140px;
   font-size:55px;
   padding-left:61px;
   font-family:Qwitcher Grypen; 
@@ -47,7 +47,7 @@ h6 {
   padding-left:30px;
   font-family:Qwitcher Grypen; 
   color:white;
-  margin-top:-10px;
+  margin-top:5px;
   font-size:45px; 
   font-weight: bolder;
 }
