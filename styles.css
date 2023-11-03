@@ -17,7 +17,6 @@ h1 {
  font-size:75px;
  padding-top:-12px;
  margin-bottom:65px;
-
 }
 
 pre {
@@ -27,12 +26,12 @@ pre {
   color:black;
   text-align: center;
   margin-top:85px;
-  line-height:0.7;
-  margin-bottom:1.6px; 
+  line-height:1.7;
+  /* margin-bottom:1.6px;  */
 }
 
 p {
-  margin-top:-140px;
+  margin: top -150px;
   font-size:55px;
   padding-left:61px;
   font-family:Qwitcher Grypen; 
@@ -42,12 +41,11 @@ p {
 
 h6 { 
   font-size:100px;
-  margin-top:-115px;
+  margin-top:-80px;
   font-size:15px;
-  padding-left:30px;
+  padding-left:50px;
   font-family:Qwitcher Grypen; 
   color:white;
-  margin-top:5px;
   font-size:45px; 
   font-weight: bolder;
 }
