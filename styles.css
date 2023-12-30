@@ -31,8 +31,8 @@ pre {
 }
 
 p {
-  margin-top:-135px;
-  font-size:55px;
+  margin-top:-120px;
+  font-size:28px;
   padding-left:20px;
   font-family:Qwitcher Grypen; 
   color:white; 
@@ -40,13 +40,12 @@ p {
 }
 
 h6 { 
-  font-size:100px;
   margin-top:-20px;
   font-size:9px;
-  padding-left:35px;
+  padding-left:3px;
   font-family:Qwitcher Grypen; 
   color:whitesmoke;
-  font-size:45px; 
+  font-size:35px; 
   font-weight: bolder;
 }
 
