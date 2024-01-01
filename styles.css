@@ -1,6 +1,6 @@
 body {
  
-    background-color:#F27405;
+    background-color:maroon;
     line-height:normal;
     margin:0%;
     text-align: center;
@@ -12,7 +12,7 @@ body {
 }
  
 h1 {
- color:#F27405;
+ color:white;
  font-family:Kaushan Script;font-size:40px;;
  font-size:75px;
  padding-top:-12px;
@@ -21,12 +21,12 @@ h1 {
 
 pre {
   font-family:Kaushan Script;
-  font-size:45px; 
+  font-size:25px; 
   font-weight: bolder; 
-  color:black;
+  color:white;
   text-align: center;
   margin-top:85px;
-  line-height :0.91;
+  line-height :1.5;
   /* margin-bottom:1.6px;  */
 }
 
@@ -45,12 +45,12 @@ h6 {
   padding-left:25px;
   font-family:Qwitcher Grypen; 
   color:whitesmoke;
-  font-size:35px; 
+  font-size:25px; 
   font-weight: bolder;
 }
 
 h5 {
-  color:black;
+  color:white;
   font-weight:bolder;
   margin-top:-65px;
   font-size: 30px;
