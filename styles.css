@@ -1,7 +1,7 @@
 body {
  
   /* background-color:#F27405; */
-  background-color:maroon;
+  background-color:yellow;
   line-height:normal;
   margin:0%;
   text-align: center;
@@ -25,7 +25,7 @@ pre {
 font-family:Kaushan Script;
 font-size:40px; 
 font-weight: bolder; 
-color:whitesmoke;
+color:black;
 text-align: center;
 margin-top:85px;
 line-height :1.25;
@@ -37,7 +37,7 @@ margin-top:-155px;
 font-size:28px;
 padding-left:-5px;
 font-family:Qwitcher Grypen; 
-color:white; 
+color:black; 
 font-weight: bolder;
 }
 
@@ -46,7 +46,7 @@ margin-top:-12px;
 font-size:9px;
 padding-left:25px;
 font-family:Qwitcher Grypen; 
-color:white;
+color:black;
 font-size:35px; 
 font-weight: bolder;
 }
