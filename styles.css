@@ -2,7 +2,7 @@ body {
  
   /* background-color:#F27405; */
   /* background-color:#F27405; */
-  background-color:white;
+  background-color:yellow;
   line-height:normal;
   margin:0%;
   text-align: center;
@@ -15,20 +15,20 @@ background-color: whitesmoke;
 }
 
 h1 {
-/* color:#F27405; */
-font-family:Kaushan Script;font-size:40px;;
+color:black;
+font-family:Kaushan Script;font-size:50px;;
 font-size:75px;
 padding-top:-12px;
-margin-bottom:65px;
+margin-bottom:2.5px;
 }
 
 pre {
 font-family:Kaushan Script;
 font-size:40px; 
 font-weight: bolder; 
-color:maroon;
+color:black;
 text-align: center;
-margin-top:85px;
+margin-top:20px;
 line-height :1.25;
 /* margin-bottom:1.6px;  */
 }
@@ -44,7 +44,7 @@ font-weight: bolder;
 
 h6 { 
 margin-top:-12px;
-font-size:9px;
+font-size:15px;
 padding-left:25px;
 font-family:Qwitcher Grypen; 
 color:black;
