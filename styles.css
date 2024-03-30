@@ -2,7 +2,7 @@ body {
  
   /* background-color:#F27405; */
   /* background-color:#F27405; */
-  background-color:yellow;
+  background-color:whitesmoke;
   line-height:normal;
   margin:0%;
   text-align: center;
@@ -16,17 +16,17 @@ background-color: whitesmoke;
 
 h1 {
 color:black;
-font-family:Kaushan Script;font-size:50px;;
-font-size:75px;
+font-family:Kaushan Script;
+font-size:55px;
 padding-top:-12px;
-margin-bottom:2.5px;
+margin-bottom:-35px;
 }
 
 pre {
 font-family:Kaushan Script;
 font-size:40px; 
 font-weight: bolder; 
-color:black;
+color:maroon;
 text-align: center;
 margin-top:20px;
 line-height :1.25;
