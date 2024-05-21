@@ -19,7 +19,7 @@ color:black;
 font-family:Kaushan Script;
 font-size:55px;
 padding-top:-12px;
-margin-bottom:-35px;
+margin-bottom:-20px;
 }
 
 pre {
@@ -43,12 +43,12 @@ font-weight: bolder;
 }
 
 h6 { 
-margin-top:-55px;
+margin-top:-18px;
 font-size:15px;
 padding-left:25px;
 font-family:Qwitcher Grypen; 
-color:black;
-font-size:35px; 
+color:#000000;
+font-size:35px;
 font-weight: bolder;
 }
 
