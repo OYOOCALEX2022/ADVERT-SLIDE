@@ -2,7 +2,7 @@ body {
  
   /* background-color:#F27405; */
   /* background-color:#F27405; */
-  background-color:whitesmoke;
+  background-color:maroon;
   line-height:normal;
   margin:0%;
   text-align: center;
@@ -58,6 +58,18 @@ font-weight:bolder;
 margin-top:-65px;
 font-size: 30px;
 padding-left: 20px;
+}
+
+h7 {
+color:white;
+font-family:Qwitcher Grypen;
+padding-left:550px;
+font-size: 27px; 
+}
+
+h3 {
+  color:white;
+  margin-bottom:-65px;
 }
 
 .image {
