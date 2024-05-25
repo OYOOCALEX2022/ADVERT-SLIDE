@@ -2,7 +2,7 @@ body {
  
   /* background-color:#F27405; */
   /* background-color:#F27405; */
-  background-color:maroon;
+  background-color:black;
   line-height:normal;
   margin:0%;
   text-align: center;
@@ -11,7 +11,7 @@ body {
 
 .highlight {
 /* background-color:#F27405; */
-background-color: maroon;
+background-color:black;
 }
 
 h1 {
@@ -68,7 +68,7 @@ font-size: 35px;
 }
 
 h3 {
-  color:white;
+  color:yellow;
   margin-bottom:-65px;
   font-family:Qwitcher Grypen;
 }
