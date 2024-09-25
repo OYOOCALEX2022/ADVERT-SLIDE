@@ -43,8 +43,9 @@ font-weight: bolder;
 }
 
 h2 { 
-margin-top:250x;
+/* margin-top:250x; */
 font-size:65px;
+margin-bottom:-85px;
 padding-left:25px;
 font-family:Qwitcher Grypen; 
 color:black;
